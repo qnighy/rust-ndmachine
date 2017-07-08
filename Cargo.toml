@@ -1,0 +1,7 @@
+[package]
+name = "ndmachine"
+version = "0.0.1"
+authors = ["Masaki Hara <ackie.h.gmai@gmail.com>"]
+
+[dependencies]
+sat = "0.1.0"
